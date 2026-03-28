@@ -1,3 +1,3 @@
 ## Projeto de Análise de Fraude do Sparkov
 
-Relatório de análise exploratória de transição cartão de credito. 
+Relatório de análise exploratória de transação cartão de credito. 
